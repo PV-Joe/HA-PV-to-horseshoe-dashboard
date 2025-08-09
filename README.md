@@ -5,7 +5,7 @@
 
 📥 Install these before pasting the code into a manual card:
 
-1. 🧩 [Flexible Horseshoe Card for Lovelace](https://github.com/AmoebeLabs/flex-horseshoe-card)
+1. 🧩 [Flexible Horseshoe Card](https://github.com/AmoebeLabs/flex-horseshoe-card)
 2. 🎨 [card-mod](https://github.com/thomasloven/lovelace-card-mod)
 3. ☀️ [Forecast.Solar](https://www.home-assistant.io/integrations/forecast_solar) (for 'REMAINING')
 4. 💰 Create a custom sensor to calculate Grid import in your currency
