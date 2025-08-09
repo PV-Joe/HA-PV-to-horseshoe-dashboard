@@ -1,13 +1,14 @@
-# HA-PV-to-horseshoe-dashboard
-📘 This tutorial explains the process to create a [Home Assistant](https://www.home-assistant.io) horseshoe dashboard for your photovoltaic system.
+## HA-PV-to-horseshoe-dashboard
+📘 This tutorial explains the process to create a [Home Assistant](https://www.home-assistant.io) horseshoe dashboard for your photovoltaic system. This code was highly inspired by [David Rapan](https://github.com/davidrapan)
 
-🔧 Dependencies:
+### 🔧 Dependencies:
+
 📥 Install these before pasting the code into a manual card:
 
 1. 🧩 [Flexible Horseshoe Card for Lovelace](https://github.com/AmoebeLabs/flex-horseshoe-card)
 2. 🎨 [card-mod](https://github.com/thomasloven/lovelace-card-mod)
 3. ☀️ [Forecast.Solar](https://www.home-assistant.io/integrations/forecast_solar) (for 'REMAINING')
-4. 💰 Create a custom sensor to calculate Grid import in currency
+4. 💰 Create a custom sensor to calculate Grid import in your currency
 5. ✏️ Modify the entities from the code to match your sensor names
 6. 📋 Paste the code into a manual card
 
