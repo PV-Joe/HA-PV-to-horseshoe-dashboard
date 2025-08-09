@@ -15,7 +15,7 @@ Dashboard optimized for mobile phones:
 
 ![Horseshoe](https://github.com/user-attachments/assets/ca4edfbb-2bb6-426a-9685-9bb7a235eb98)
 
-
+📋 Paste the code into a manual card in Home Assistant:
 
 ```
 type: vertical-stack
